@@ -1,6 +1,6 @@
 # Notas de design
 
-*Esta seção é apenas informativa.*
+*Esta seção é informativa.*
 
 Deve-se admitir que muitos aspectos do HTML parecem, à primeira vista, sem sentido e
 inconsistentes.
