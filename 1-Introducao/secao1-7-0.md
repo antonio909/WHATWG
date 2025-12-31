@@ -1,9 +1,9 @@
-# Notas de design
+<h1 align="center">Notas de design</h1>
 
-*Esta seção é informativa.*
+<p align="center"><i>Esta seção é informativa.</i></p>
 
-Deve-se admitir que muitos aspectos do HTML parecem, à primeira vista, sem sentido e
-inconsistentes.
+<p align="justify">Deve-se admitir que muitos aspectos do HTML parecem, à primeira vista, sem sentido e
+inconsistentes.</p>
 
 O HTML, as suas APIs de DOM de suporte, bem como muitas das suas tecnologias
 complementares, foram desenvolvidos ao longo de várias décadas por uma vasta gama de
