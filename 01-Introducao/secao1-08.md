@@ -28,9 +28,12 @@
   Os autores são lembrados de que o processamento para XML e HTML difere; em particular, <strong>mesmo pequenos erros de sintaxe impedirão que um documento rotulado como XML seja totalmente renderizado</strong>, ao passo que seriam ignorados na sintaxe HTML.
 </p>
 
-<p align="justify">
-  <strong>Nota:</strong> A sintaxe XML para o HTML era anteriormente referida como "XHTML", mas esta especificação não utiliza esse termo (entre outros motivos, porque tal termo não é utilizado para as sintaxes HTML de MathML e SVG).
-</p>
+<dl>
+  <dt>Nota:</dt> 
+  <dd align="justify">
+    A sintaxe XML para o HTML era anteriormente referida como "XHTML", mas esta especificação não utiliza esse termo (entre outros motivos, porque tal termo não é utilizado para as sintaxes HTML de MathML e SVG).
+  </dd>
+</dl>
 
 <p align="justify">
   O DOM, a sintaxe HTML e a sintaxe XML não conseguem representar todos os mesmo conteúdo.
